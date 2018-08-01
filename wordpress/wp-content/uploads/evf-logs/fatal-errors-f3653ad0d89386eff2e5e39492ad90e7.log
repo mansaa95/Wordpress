@@ -1,0 +1,275 @@
+2018-07-16T10:34:59+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_connect() in C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89) : eval()'d code:4
+Stack trace:
+#0 C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89): eval()
+#1 C:\xampp\htdocs\mock\wordpress\wp-includes\class-wp-hook.php(286): will_bontrager_insert_php('[insert_php]\r\n\r...')
+#2 C:\xampp\htdocs\mock\wordpress\wp-includes\plugin.php(203): WP_Hook->apply_filters('[insert_php]\r\n\r...', Array)
+#3 C:\xampp\htdocs\mock\wordpress\wp-includes\post-template.php(240): apply_filters('the_content', '[insert_php]\r\n\r...')
+#4 C:\xampp\htdocs\mock\wordpress\wp-content\themes\twentyseventeen\template-parts\page\content-page.php(22): the_content()
+#5 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(690): require('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', false)
+#7 C:\xampp\htdocs\mock\wordpress\wp-includes\general-template.php
+
+2018-07-16T10:42:16+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_fetch_array() in C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89) : eval()'d code:21
+Stack trace:
+#0 C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89): eval()
+#1 C:\xampp\htdocs\mock\wordpress\wp-includes\class-wp-hook.php(286): will_bontrager_insert_php('[insert_php]\r\n\r...')
+#2 C:\xampp\htdocs\mock\wordpress\wp-includes\plugin.php(203): WP_Hook->apply_filters('[insert_php]\r\n\r...', Array)
+#3 C:\xampp\htdocs\mock\wordpress\wp-includes\post-template.php(240): apply_filters('the_content', '[insert_php]\r\n\r...')
+#4 C:\xampp\htdocs\mock\wordpress\wp-content\themes\twentyseventeen\template-parts\page\content-page.php(22): the_content()
+#5 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(690): require('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', false)
+#7 C:\xampp\htdocs\mock\wordpress\wp-includes\general-templat
+
+2018-07-16T10:43:21+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_fetch_array() in C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89) : eval()'d code:14
+Stack trace:
+#0 C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89): eval()
+#1 C:\xampp\htdocs\mock\wordpress\wp-includes\class-wp-hook.php(286): will_bontrager_insert_php('[insert_php]\r\n\r...')
+#2 C:\xampp\htdocs\mock\wordpress\wp-includes\plugin.php(203): WP_Hook->apply_filters('[insert_php]\r\n\r...', Array)
+#3 C:\xampp\htdocs\mock\wordpress\wp-includes\post-template.php(240): apply_filters('the_content', '[insert_php]\r\n\r...')
+#4 C:\xampp\htdocs\mock\wordpress\wp-content\themes\twentyseventeen\template-parts\page\content-page.php(22): the_content()
+#5 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(690): require('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', false)
+#7 C:\xampp\htdocs\mock\wordpress\wp-includes\general-templat
+
+2018-07-16T10:51:03+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_fetch_array() in C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89) : eval()'d code:14
+Stack trace:
+#0 C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89): eval()
+#1 C:\xampp\htdocs\mock\wordpress\wp-includes\class-wp-hook.php(286): will_bontrager_insert_php('[insert_php]\r\n\r...')
+#2 C:\xampp\htdocs\mock\wordpress\wp-includes\plugin.php(203): WP_Hook->apply_filters('[insert_php]\r\n\r...', Array)
+#3 C:\xampp\htdocs\mock\wordpress\wp-includes\post-template.php(240): apply_filters('the_content', '[insert_php]\r\n\r...')
+#4 C:\xampp\htdocs\mock\wordpress\wp-content\themes\twentyseventeen\template-parts\page\content-page.php(22): the_content()
+#5 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(690): require('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', false)
+#7 C:\xampp\htdocs\mock\wordpress\wp-includes\general-templat
+
+2018-07-16T10:51:51+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_fetch_array() in C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89) : eval()'d code:14
+Stack trace:
+#0 C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89): eval()
+#1 C:\xampp\htdocs\mock\wordpress\wp-includes\class-wp-hook.php(286): will_bontrager_insert_php('[insert_php]\r\n\r...')
+#2 C:\xampp\htdocs\mock\wordpress\wp-includes\plugin.php(203): WP_Hook->apply_filters('[insert_php]\r\n\r...', Array)
+#3 C:\xampp\htdocs\mock\wordpress\wp-includes\post-template.php(240): apply_filters('the_content', '[insert_php]\r\n\r...')
+#4 C:\xampp\htdocs\mock\wordpress\wp-content\themes\twentyseventeen\template-parts\page\content-page.php(22): the_content()
+#5 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(690): require('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', false)
+#7 C:\xampp\htdocs\mock\wordpress\wp-includes\general-templat
+
+2018-07-16T11:20:26+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_fetch_array() in C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89) : eval()'d code:3
+Stack trace:
+#0 C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89): eval()
+#1 C:\xampp\htdocs\mock\wordpress\wp-includes\class-wp-hook.php(286): will_bontrager_insert_php('<!doctype html>...')
+#2 C:\xampp\htdocs\mock\wordpress\wp-includes\plugin.php(203): WP_Hook->apply_filters('<!doctype html>...', Array)
+#3 C:\xampp\htdocs\mock\wordpress\wp-includes\post-template.php(240): apply_filters('the_content', '<!doctype html>...')
+#4 C:\xampp\htdocs\mock\wordpress\wp-content\themes\twentyseventeen\template-parts\page\content-page.php(22): the_content()
+#5 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(690): require('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', false)
+#7 C:\xampp\htdocs\mock\wordpress\wp-includes\general-template.php(155)
+
+2018-07-16T11:20:52+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_fetch_array() in C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89) : eval()'d code:3
+Stack trace:
+#0 C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89): eval()
+#1 C:\xampp\htdocs\mock\wordpress\wp-includes\class-wp-hook.php(286): will_bontrager_insert_php('<!doctype html>...')
+#2 C:\xampp\htdocs\mock\wordpress\wp-includes\plugin.php(203): WP_Hook->apply_filters('<!doctype html>...', Array)
+#3 C:\xampp\htdocs\mock\wordpress\wp-includes\post-template.php(240): apply_filters('the_content', '<!doctype html>...')
+#4 C:\xampp\htdocs\mock\wordpress\wp-content\themes\twentyseventeen\template-parts\page\content-page.php(22): the_content()
+#5 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(690): require('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', false)
+#7 C:\xampp\htdocs\mock\wordpress\wp-includes\general-template.php(155)
+
+2018-07-16T11:49:22+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_connect() in C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89) : eval()'d code:2
+Stack trace:
+#0 C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89): eval()
+#1 C:\xampp\htdocs\mock\wordpress\wp-includes\class-wp-hook.php(286): will_bontrager_insert_php('   <html>\r\n<tit...')
+#2 C:\xampp\htdocs\mock\wordpress\wp-includes\plugin.php(203): WP_Hook->apply_filters('   <html>\r\n<tit...', Array)
+#3 C:\xampp\htdocs\mock\wordpress\wp-includes\post-template.php(240): apply_filters('the_content', '   <html>\r\n<tit...')
+#4 C:\xampp\htdocs\mock\wordpress\wp-content\themes\twentyseventeen\template-parts\page\content-page.php(22): the_content()
+#5 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(690): require('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', false)
+#7 C:\xampp\htdocs\mock\wordpress\wp-includes\general-template.php(15
+
+2018-07-16T11:55:28+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_connect() in C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89) : eval()'d code:5
+Stack trace:
+#0 C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89): eval()
+#1 C:\xampp\htdocs\mock\wordpress\wp-includes\class-wp-hook.php(286): will_bontrager_insert_php('   <html>\r\n<tit...')
+#2 C:\xampp\htdocs\mock\wordpress\wp-includes\plugin.php(203): WP_Hook->apply_filters('   <html>\r\n<tit...', Array)
+#3 C:\xampp\htdocs\mock\wordpress\wp-includes\post-template.php(240): apply_filters('the_content', '   <html>\r\n<tit...')
+#4 C:\xampp\htdocs\mock\wordpress\wp-content\themes\twentyseventeen\template-parts\page\content-page.php(22): the_content()
+#5 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(690): require('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', false)
+#7 C:\xampp\htdocs\mock\wordpress\wp-includes\general-template.php(15
+
+2018-07-16T11:55:57+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_connect() in C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89) : eval()'d code:5
+Stack trace:
+#0 C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89): eval()
+#1 C:\xampp\htdocs\mock\wordpress\wp-includes\class-wp-hook.php(286): will_bontrager_insert_php('\r\n[insert_php]\r...')
+#2 C:\xampp\htdocs\mock\wordpress\wp-includes\plugin.php(203): WP_Hook->apply_filters('\r\n[insert_php]\r...', Array)
+#3 C:\xampp\htdocs\mock\wordpress\wp-includes\post-template.php(240): apply_filters('the_content', '\r\n[insert_php]\r...')
+#4 C:\xampp\htdocs\mock\wordpress\wp-content\themes\twentyseventeen\template-parts\page\content-page.php(22): the_content()
+#5 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(690): require('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', false)
+#7 C:\xampp\htdocs\mock\wordpress\wp-includes\general-template.php
+
+2018-07-16T11:57:46+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_connect() in C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89) : eval()'d code:4
+Stack trace:
+#0 C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89): eval()
+#1 C:\xampp\htdocs\mock\wordpress\wp-includes\class-wp-hook.php(286): will_bontrager_insert_php('[insert_php]\r\ne...')
+#2 C:\xampp\htdocs\mock\wordpress\wp-includes\plugin.php(203): WP_Hook->apply_filters('[insert_php]\r\ne...', Array)
+#3 C:\xampp\htdocs\mock\wordpress\wp-includes\post-template.php(240): apply_filters('the_content', '[insert_php]\r\ne...')
+#4 C:\xampp\htdocs\mock\wordpress\wp-content\themes\twentyseventeen\template-parts\page\content-page.php(22): the_content()
+#5 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(690): require('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', false)
+#7 C:\xampp\htdocs\mock\wordpress\wp-includes\general-template.php(15
+
+2018-07-16T12:35:07+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_connect() in C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89) : eval()'d code:4
+Stack trace:
+#0 C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89): eval()
+#1 C:\xampp\htdocs\mock\wordpress\wp-includes\class-wp-hook.php(286): will_bontrager_insert_php('[insert_php]\r\ne...')
+#2 C:\xampp\htdocs\mock\wordpress\wp-includes\plugin.php(203): WP_Hook->apply_filters('[insert_php]\r\ne...', Array)
+#3 C:\xampp\htdocs\mock\wordpress\wp-includes\post-template.php(240): apply_filters('the_content', '[insert_php]\r\ne...')
+#4 C:\xampp\htdocs\mock\wordpress\wp-content\themes\twentyseventeen\template-parts\page\content-page.php(22): the_content()
+#5 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(690): require('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', false)
+#7 C:\xampp\htdocs\mock\wordpress\wp-includes\general-template.php(15
+
+2018-07-16T12:52:44+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_connect() in C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89) : eval()'d code:4
+Stack trace:
+#0 C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89): eval()
+#1 C:\xampp\htdocs\mock\wordpress\wp-includes\class-wp-hook.php(286): will_bontrager_insert_php('[insert_php]\r\ne...')
+#2 C:\xampp\htdocs\mock\wordpress\wp-includes\plugin.php(203): WP_Hook->apply_filters('[insert_php]\r\ne...', Array)
+#3 C:\xampp\htdocs\mock\wordpress\wp-includes\post-template.php(240): apply_filters('the_content', '[insert_php]\r\ne...')
+#4 C:\xampp\htdocs\mock\wordpress\wp-content\themes\twentyseventeen\template-parts\page\content-page.php(22): the_content()
+#5 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(690): require('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', false)
+#7 C:\xampp\htdocs\mock\wordpress\wp-includes\general-template.php(15
+
+2018-07-16T14:05:35+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_connect() in C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89) : eval()'d code:4
+Stack trace:
+#0 C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89): eval()
+#1 C:\xampp\htdocs\mock\wordpress\wp-includes\class-wp-hook.php(286): will_bontrager_insert_php('[insert_php]\r\ne...')
+#2 C:\xampp\htdocs\mock\wordpress\wp-includes\plugin.php(203): WP_Hook->apply_filters('[insert_php]\r\ne...', Array)
+#3 C:\xampp\htdocs\mock\wordpress\wp-includes\post-template.php(240): apply_filters('the_content', '[insert_php]\r\ne...')
+#4 C:\xampp\htdocs\mock\wordpress\wp-content\themes\twentyseventeen\template-parts\page\content-page.php(22): the_content()
+#5 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(690): require('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', false)
+#7 C:\xampp\htdocs\mock\wordpress\wp-includes\general-template.php(15
+
+2018-07-16T14:08:32+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_fetch_array() in C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89) : eval()'d code:20
+Stack trace:
+#0 C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89): eval()
+#1 C:\xampp\htdocs\mock\wordpress\wp-includes\class-wp-hook.php(286): will_bontrager_insert_php('[insert_php]\r\n$...')
+#2 C:\xampp\htdocs\mock\wordpress\wp-includes\plugin.php(203): WP_Hook->apply_filters('[insert_php]\r\n$...', Array)
+#3 C:\xampp\htdocs\mock\wordpress\wp-includes\post-template.php(240): apply_filters('the_content', '[insert_php]\r\n$...')
+#4 C:\xampp\htdocs\mock\wordpress\wp-content\themes\twentyseventeen\template-parts\page\content-page.php(22): the_content()
+#5 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(690): require('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', false)
+#7 C:\xampp\htdocs\mock\wordpress\wp-includes\general-template.p
+
+2018-07-16T14:11:59+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_fetch_row() in C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89) : eval()'d code:20
+Stack trace:
+#0 C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89): eval()
+#1 C:\xampp\htdocs\mock\wordpress\wp-includes\class-wp-hook.php(286): will_bontrager_insert_php('[insert_php]\r\n$...')
+#2 C:\xampp\htdocs\mock\wordpress\wp-includes\plugin.php(203): WP_Hook->apply_filters('[insert_php]\r\n$...', Array)
+#3 C:\xampp\htdocs\mock\wordpress\wp-includes\post-template.php(240): apply_filters('the_content', '[insert_php]\r\n$...')
+#4 C:\xampp\htdocs\mock\wordpress\wp-content\themes\twentyseventeen\template-parts\page\content-page.php(22): the_content()
+#5 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(690): require('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', false)
+#7 C:\xampp\htdocs\mock\wordpress\wp-includes\general-template.php
+
+2018-07-18T07:05:12+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_fetch_array() in C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89) : eval()'d code:15
+Stack trace:
+#0 C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89): eval()
+#1 C:\xampp\htdocs\mock\wordpress\wp-includes\class-wp-hook.php(286): will_bontrager_insert_php('[insert_php]\r\n$...')
+#2 C:\xampp\htdocs\mock\wordpress\wp-includes\plugin.php(203): WP_Hook->apply_filters('[insert_php]\r\n$...', Array)
+#3 C:\xampp\htdocs\mock\wordpress\wp-includes\post-template.php(240): apply_filters('the_content', '[insert_php]\r\n$...')
+#4 C:\xampp\htdocs\mock\wordpress\wp-content\themes\twentyseventeen\template-parts\page\content-page.php(22): the_content()
+#5 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(690): require('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', false)
+#7 C:\xampp\htdocs\mock\wordpress\wp-includes\general-template.p
+
+2018-07-18T07:06:34+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_fetch_assoc() in C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89) : eval()'d code:15
+Stack trace:
+#0 C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89): eval()
+#1 C:\xampp\htdocs\mock\wordpress\wp-includes\class-wp-hook.php(286): will_bontrager_insert_php('[insert_php]\r\n$...')
+#2 C:\xampp\htdocs\mock\wordpress\wp-includes\plugin.php(203): WP_Hook->apply_filters('[insert_php]\r\n$...', Array)
+#3 C:\xampp\htdocs\mock\wordpress\wp-includes\post-template.php(240): apply_filters('the_content', '[insert_php]\r\n$...')
+#4 C:\xampp\htdocs\mock\wordpress\wp-content\themes\twentyseventeen\template-parts\page\content-page.php(22): the_content()
+#5 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(690): require('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', false)
+#7 C:\xampp\htdocs\mock\wordpress\wp-includes\general-template.p
+
+2018-07-18T13:31:12+00:00 CRITICAL Uncaught Error: Cannot use object of type mysqli_result as array in C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89) : eval()'d code:54
+Stack trace:
+#0 C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89): eval()
+#1 C:\xampp\htdocs\mock\wordpress\wp-includes\class-wp-hook.php(286): will_bontrager_insert_php(' [insert_php]\r\n...')
+#2 C:\xampp\htdocs\mock\wordpress\wp-includes\plugin.php(203): WP_Hook->apply_filters(' [insert_php]\r\n...', Array)
+#3 C:\xampp\htdocs\mock\wordpress\wp-includes\post-template.php(240): apply_filters('the_content', ' [insert_php]\r\n...')
+#4 C:\xampp\htdocs\mock\wordpress\wp-content\themes\twentyseventeen\template-parts\page\content-page.php(22): the_content()
+#5 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(690): require('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', false)
+#7 C:\xampp\htdocs\mock\wordpress\wp-includes\general-template
+
+2018-07-18T14:51:11+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_close() in C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89) : eval()'d code:20
+Stack trace:
+#0 C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89): eval()
+#1 C:\xampp\htdocs\mock\wordpress\wp-includes\class-wp-hook.php(286): will_bontrager_insert_php('<html>\r\n<body>\r...')
+#2 C:\xampp\htdocs\mock\wordpress\wp-includes\plugin.php(203): WP_Hook->apply_filters('<html>\r\n<body>\r...', Array)
+#3 C:\xampp\htdocs\mock\wordpress\wp-includes\post-template.php(240): apply_filters('the_content', '<html>\r\n<body>\r...')
+#4 C:\xampp\htdocs\mock\wordpress\wp-content\themes\twentyseventeen\template-parts\page\content-page.php(22): the_content()
+#5 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(690): require('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', false)
+#7 C:\xampp\htdocs\mock\wordpress\wp-includes\general-template.php(
+
+2018-07-18T14:52:09+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_close() in C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89) : eval()'d code:20
+Stack trace:
+#0 C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89): eval()
+#1 C:\xampp\htdocs\mock\wordpress\wp-includes\class-wp-hook.php(286): will_bontrager_insert_php('<html>\r\n<body>\r...')
+#2 C:\xampp\htdocs\mock\wordpress\wp-includes\plugin.php(203): WP_Hook->apply_filters('<html>\r\n<body>\r...', Array)
+#3 C:\xampp\htdocs\mock\wordpress\wp-includes\post-template.php(240): apply_filters('the_content', '<html>\r\n<body>\r...')
+#4 C:\xampp\htdocs\mock\wordpress\wp-content\themes\twentyseventeen\template-parts\page\content-page.php(22): the_content()
+#5 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(690): require('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', false)
+#7 C:\xampp\htdocs\mock\wordpress\wp-includes\general-template.php(
+
+2018-07-18T14:53:10+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_close() in C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89) : eval()'d code:20
+Stack trace:
+#0 C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89): eval()
+#1 C:\xampp\htdocs\mock\wordpress\wp-includes\class-wp-hook.php(286): will_bontrager_insert_php('\r\n\r\n<html>\r\n<bo...')
+#2 C:\xampp\htdocs\mock\wordpress\wp-includes\plugin.php(203): WP_Hook->apply_filters('\r\n\r\n<html>\r\n<bo...', Array)
+#3 C:\xampp\htdocs\mock\wordpress\wp-includes\post-template.php(240): apply_filters('the_content', '\r\n\r\n<html>\r\n<bo...')
+#4 C:\xampp\htdocs\mock\wordpress\wp-content\themes\twentyseventeen\template-parts\page\content-page.php(22): the_content()
+#5 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(690): require('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', false)
+#7 C:\xampp\htdocs\mock\wordpress\wp-includes\general-temp
+
+2018-07-18T14:54:37+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_close() in C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89) : eval()'d code:21
+Stack trace:
+#0 C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89): eval()
+#1 C:\xampp\htdocs\mock\wordpress\wp-includes\class-wp-hook.php(286): will_bontrager_insert_php('\r\n [insert_php]...')
+#2 C:\xampp\htdocs\mock\wordpress\wp-includes\plugin.php(203): WP_Hook->apply_filters('\r\n [insert_php]...', Array)
+#3 C:\xampp\htdocs\mock\wordpress\wp-includes\post-template.php(240): apply_filters('the_content', '\r\n [insert_php]...')
+#4 C:\xampp\htdocs\mock\wordpress\wp-content\themes\twentyseventeen\template-parts\page\content-page.php(22): the_content()
+#5 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(690): require('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', false)
+#7 C:\xampp\htdocs\mock\wordpress\wp-includes\general-template.php(155
+
+2018-07-18T14:56:37+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_close() in C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89) : eval()'d code:21
+Stack trace:
+#0 C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89): eval()
+#1 C:\xampp\htdocs\mock\wordpress\wp-includes\class-wp-hook.php(286): will_bontrager_insert_php('\r\n [insert_php]...')
+#2 C:\xampp\htdocs\mock\wordpress\wp-includes\plugin.php(203): WP_Hook->apply_filters('\r\n [insert_php]...', Array)
+#3 C:\xampp\htdocs\mock\wordpress\wp-includes\post-template.php(240): apply_filters('the_content', '\r\n [insert_php]...')
+#4 C:\xampp\htdocs\mock\wordpress\wp-content\themes\twentyseventeen\template-parts\page\content-page.php(22): the_content()
+#5 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(690): require('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', false)
+#7 C:\xampp\htdocs\mock\wordpress\wp-includes\general-template.php(155
+
+2018-07-18T15:02:45+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_fetch_assoc() in C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89) : eval()'d code:26
+Stack trace:
+#0 C:\xampp\htdocs\mock\wordpress\wp-content\plugins\insert-php\insert_php.php(89): eval()
+#1 C:\xampp\htdocs\mock\wordpress\wp-includes\class-wp-hook.php(286): will_bontrager_insert_php('\r\n [insert_php]...')
+#2 C:\xampp\htdocs\mock\wordpress\wp-includes\plugin.php(203): WP_Hook->apply_filters('\r\n [insert_php]...', Array)
+#3 C:\xampp\htdocs\mock\wordpress\wp-includes\post-template.php(240): apply_filters('the_content', '\r\n [insert_php]...')
+#4 C:\xampp\htdocs\mock\wordpress\wp-content\themes\twentyseventeen\template-parts\page\content-page.php(22): the_content()
+#5 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(690): require('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\mock\wordpress\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', false)
+#7 C:\xampp\htdocs\mock\wordpress\wp-includes\general-template.p
+
